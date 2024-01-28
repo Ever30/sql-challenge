@@ -4,7 +4,7 @@ In this challenge, we test some of the functions that we learned during this SQL
 
 # Instructions
 
-## Data Modeling
+# Data Modeling
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD.
 Data Engineering
@@ -16,7 +16,7 @@ Be sure to create the tables in the correct order to handle the foreign keys.
 
 2.- Import each CSV file into its corresponding SQL table.
 
-## Data Analysis
+# Data Analysis
 
 1.- List the employee number, last name, first name, sex, and salary of each employee.
 2.- List the first name, last name, and hire date for the employees who were hired in 1986.
