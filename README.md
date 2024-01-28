@@ -1,20 +1,21 @@
 # sql-challenge
 
-In this challenge, we test some of the functions that we learned during this SQL week.
+  In this challenge, we test some of the functions that we learned during this SQL week.
 
 # Instructions
 
 # Data Modeling
 
-Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD.
-Data Engineering
+  I nspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD.
+  
+# Data Engineering
 
-1.- Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
-Remember to specify the data types, primary keys, foreign keys, and other constraints.
-For the primary keys, verify that the column is unique. Otherwise, create a composite keyLinks to an external site., which takes two primary keys to uniquely identify a row.
-Be sure to create the tables in the correct order to handle the foreign keys.
+  1.- Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
+  Remember to specify the data types, primary keys, foreign keys, and other constraints.
+  For the primary keys, verify that the column is unique. Otherwise, create a composite keyLinks to an external site., which takes two primary keys to uniquely identify a row.
+  Be sure to create the tables in the correct order to handle the foreign keys.
 
-2.- Import each CSV file into its corresponding SQL table.
+  2.- Import each CSV file into its corresponding SQL table.
 
 # Data Analysis
 
@@ -30,5 +31,5 @@ Be sure to create the tables in the correct order to handle the foreign keys.
 # Resources
 
 To perform this task I used the activities that we did during the past week as a reference. I also got help from my classmates in the study groups and websites like https://app.quickdatabasediagrams.com/#/ and https://en.wikipedia.org/wiki/Composite_key.
-![image](https://github.com/Ever30/sql-challenge/assets/149534473/7baffa90-3ed4-4aa2-82d1-635a75acc9ca)
+
 
