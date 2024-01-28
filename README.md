@@ -1,6 +1,6 @@
 # sql-challenge
 
-  In this challenge, i test some of the functions that I learned during this SQL week. I used commands like "SELECT", "FROM", "AS", "WHERE", "JOIN", DESC, "IN" "AND", etc. 
+  In this challenge, I test some of the functions that I learned during this SQL week. I used commands like "SELECT", "FROM", "AS", "WHERE", "JOIN", DESC, "IN" "AND", etc. 
 
 # Instructions
 
