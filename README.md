@@ -30,4 +30,5 @@ Be sure to create the tables in the correct order to handle the foreign keys.
 # Resources
 
 To perform this task I used the activities that we did during the past week as a reference. I also got help from my classmates in the study groups and websites like https://app.quickdatabasediagrams.com/#/ and https://en.wikipedia.org/wiki/Composite_key.
-![image](https://github.com/Ever30/sql-challenge/assets/149534473/5ddfe5a8-f5de-4ca4-bd7b-746078547382)
+![image](https://github.com/Ever30/sql-challenge/assets/149534473/7baffa90-3ed4-4aa2-82d1-635a75acc9ca)
+
